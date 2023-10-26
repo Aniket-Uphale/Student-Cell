@@ -1,0 +1,120 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Lato', sans-serif;
+}
+
+/*header*/
+header{
+ width: 100%;
+top: 0;
+background-color: #f1f1f1;
+
+}
+
+header .material-icons{
+font-size:23px;
+font-weight:600;
+color:#606060;
+}
+.in-header{
+    overflow: hidden;
+    padding: 15px 10px;
+    margin: auto;
+    max-width: 1350px;
+}
+.in-header a{
+    color: #333;
+    display: inline;
+        text-align: center;
+        padding: 5px;
+       margin: 20px;
+        text-decoration: none;
+        font-size: 16px;
+        transition: 0.1s;
+}
+.in-header a:hover{
+    color: #bbb;
+}
+
+
+.left-head{
+    color: #414141;
+    margin: 0;
+  float: left;
+}
+.right-head{
+    float: right;
+}
+
+
+.menu{
+    visibility:hidden;
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    margin-right: 5px;
+}
+.right-icon{
+    float: right;
+}
+
+
+@media (max-width: 800px){
+    .menu{
+        visibility: visible;
+    }
+    .right-head a{
+        visibility: hidden;
+        margin: 0;
+        padding: 0;
+        font-size: 0;
+        }
+}
+/*slide nev*/
+.sidenav {
+    height:100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #f1f1f1;
+    overflow-x: hidden;
+   padding-bottom: 20px;
+    transition:all 0.2s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #414141;
+    display: block;
+    transition:0.3s;
+  }
+  .sidenav .active{
+    color: #f1f1f1;
+  }
+  .sidenav a:hover {
+    color: #bbb;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+    /* slide nev*/
+    @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .sidenav a {font-size: 18px;}
+      }
+      
+      
+/*MAIN*/
