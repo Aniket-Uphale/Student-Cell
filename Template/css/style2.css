@@ -207,7 +207,7 @@ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 .card-head{
     display:flex;
     justify-content:space-around;
-    padding:5px;
+    padding:8px;
     color:#2b186d;
 }
 .card-icon{
@@ -236,7 +236,7 @@ text-align:center;
 }
 .card-footer-icon{
     fill:#333;
-    
+
 }
 .st-nav-btn-grp{
 padding:10px;
