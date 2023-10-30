@@ -6,15 +6,18 @@ header .st-navbar{
     background-color:#fdfeff;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
+
+
 header .st-navbar .navbar-brand{
-    color:#1362b1;
+    color:#0B5998;
     font-weight:700;
     font-size:1.5em;
     text-decoration:none;
 }
 header .st-navbar .navbar-brand:hover{
-    color:#1795e3;
+    color:#0B5998;
 }
+/*profile & nav tabs*/
 .st-main .st-profile{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
@@ -25,14 +28,26 @@ header .st-navbar .navbar-brand:hover{
 border:none;
 padding:10px;
 margin-top:5px;
+color:#333;
 text-decoration:none;
 }
+
 .st-main .st-group .list-group-item:hover{
     background-color:#acacac1e;
-    color:#333;
 }
+
 .st-main .st-group .list-group-item .nav-btn-icon{
     width:30px;
-    padding:5px;
+    padding:3px;
     fill:#666;
+}
+/*main page*/
+.st-main .st-text-col{
+    background-color:#0B5998;
+    border-radius:10px;
+}
+.st-main .st-text{
+    color:#fff;
+    font-size:1.8em;
+    font-weight:700;
 }
