@@ -3,12 +3,17 @@
 }
 
 header .st-navbar{
-    background-color:#283861;
+    background-color:#fdfeff;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 header .st-navbar .navbar-brand{
-    color:#ffd52c;
+    color:#1362b1;
     font-weight:700;
     font-size:1.5em;
+    text-decoration:none;
+}
+header .st-navbar .navbar-brand:hover{
+    color:#1795e3;
 }
 .st-main .st-profile{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
