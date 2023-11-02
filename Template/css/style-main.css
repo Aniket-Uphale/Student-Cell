@@ -83,6 +83,7 @@ text-decoration:none;
     font-weight:700;
 }
 /*
+
 .st-profile-menu{
     display:none;
 }
@@ -94,4 +95,30 @@ text-decoration:none;
     .st-profile-menu{
 display:contents;
     }
+}*/
+
+.st-admin-dash .card-btn-icon{
+    fill:#ffdc14 !important;
+    width:90px;
+}
+
+.st-admin-dash .card
+{
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.st-admin-dash .card-footer a{
+ text-decoration:none;
+ font-size:1em;
+ font-weight:600;
+ color:#0B5998;
+ width:100%;
+ box-shadow:none;
+}
+.st-admin-dash .card .card-title{
+    font-size:1.3em;
+}
+.st-admin-dash .card .card-subtitle{
+    font-weight:600;
+    color:#666;
 }
