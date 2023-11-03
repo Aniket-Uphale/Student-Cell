@@ -37,6 +37,7 @@ header .st-navbar .navbar-brand:hover{
 border:none;
 padding:10px;
 margin-top:5px;
+font-size:0.9em;
 color:#333;
 fill:#666;
 display:flex;
@@ -44,9 +45,10 @@ border-bottom:1px solid #bbbbbb37;
 text-decoration:none;
 }
  .st-group .badge{
-    border-radius:25px;
+    border-radius:20px;
     position:absolute;
-    font-size:0.7em;
+    font-size:0.6em;
+    font-weight:700;
     top:18%;
     right:0%;
 }
@@ -63,7 +65,7 @@ text-decoration:none;
 }
 
  .st-group .list-group-item .nav-btn-icon{
-    width:30px;
+    max-width:28px;
     padding:3px;
    
 }
@@ -99,7 +101,7 @@ display:contents;
 
 .st-admin-dash .card-btn-icon{
     fill:#ffdc14 !important;
-    width:90px;
+    max-width:90px;
 }
 
 .st-admin-dash .card
