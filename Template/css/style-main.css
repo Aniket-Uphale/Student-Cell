@@ -1,10 +1,15 @@
+*{
+    padding:0;
+    margin:0;
+}
+
 .nav-item .material-icons{
     position:absolute;
 }
 
 header .st-navbar{
     background-color:#fdfeff;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-bottom:1px solid #ccc;
 }
 
 .st-navbar button:focus{
@@ -26,22 +31,24 @@ color:#0B5998 !important;
 header .st-navbar .navbar-brand:hover{
     color:#0B5998;
 }
+
 /*profile & nav tabs*/
  .st-profile{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   
+  background:#fff;
 }
 .st-profile .user-text{
     display:block;
 }
  .st-group .st-list-link{
-border:none;
+
 padding:10px;
 margin-top:5px;
 font-size:0.9em;
 color:#333;
 fill:#666;
 display:flex;
-border-bottom:1px solid #bbbbbb37;
+border:1px solid #bbbbbb37;
 text-decoration:none;
 }
  .st-group .badge{
@@ -75,32 +82,24 @@ text-decoration:none;
 
 
 /*main page*/
+/*
+.st-main{
+    height:600px;
+    overflow-y:scroll;
+}*/
+
 .st-main .st-text-col{
     background-color:#0B5998;
-    border-radius:10px;
 }
 .st-main .st-text{
     color:#fff;
-    font-size:1.8em;
+    font-size:1.5em;
     font-weight:700;
 }
-/*
 
-.st-profile-menu{
-    display:none;
-}
-
-@media (max-width: 1024px) {
-.st-main .st-profile{
-        display:none;
-    }
-    .st-profile-menu{
-display:contents;
-    }
-}*/
 
 .st-admin-dash .card-btn-icon{
-    fill:#ffdc14 !important;
+    fill:#ffd814cd !important;
     max-width:90px;
 }
 
@@ -109,6 +108,7 @@ display:contents;
 
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
+
 .st-admin-dash .card-footer a{
  text-decoration:none;
  font-size:1em;
@@ -124,3 +124,8 @@ display:contents;
     font-weight:600;
     color:#666;
 }
+
+
+
+/* complaints*/
+

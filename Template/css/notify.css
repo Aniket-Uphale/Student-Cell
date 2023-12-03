@@ -1,0 +1,16 @@
+.nt-us-sec .card .card-body span{
+    font-size:0.85em;
+
+}
+.nt-us-sec a{
+text-decoration:none;
+color:#ca3535fc;
+
+}
+.nt-us-sec .card {
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.1);
+}
+.nf-svg{
+    fill:#e91a1a;
+    width:15px;
+}

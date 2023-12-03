@@ -1,0 +1,81 @@
+.table-svg-del{
+    width:20px;
+    fill:#e60f0fcf;
+}
+.table-svg-edit{
+    width:20px;
+
+ fill:#0f82e6f1;
+}
+.mg-list-tb .table{
+    font-size:0.85em;
+    font-weight:600;
+}
+.mg-list-tb a{
+    text-decoration:none;
+}
+thead{
+    color:#666;
+   background:#ebe8e870;
+}
+
+
+.pro-tb-p{
+    border-radius:50%;
+}
+.pro-inf .name{
+padding:2px;
+}
+.btn-fil-sec{
+    background-color:#296fa8;
+    color:#f1f1f1;
+    font-weight:600;
+    font-size:0.85em;
+}
+.btn-fil-sec:focus,.form-select:focus,.form-control:focus{
+    box-shadow:none;
+
+}
+.form-select,.form-control{
+border:1px solid #bbb;
+}
+.btn-fil-sec:hover{
+    color:#f1f1f1;
+    background-color:#2779bd;
+   
+}
+.fl-con-sec .fl-con-btn{
+    padding:8px;
+    text-decoration:none;
+    color:#f1f1f1;
+    font-weight:600;
+    border-radius:4px;
+    font-size:0.85em;
+    margin:5px;
+    align-items:center;
+}
+.exe{
+    background-color:#296fa8;
+  
+}
+.add{
+    background-color:#3a923c;
+    
+}
+
+.fl-svg{
+    fill:#ffffff !important;
+    width:20px;
+    align-self:center;
+}
+.fl-svg-search{
+ 
+    width:20px;
+    align-self:center;
+}
+.fl-con-sec .add:hover{
+    background-color:#41a042;
+}
+.fl-con-sec .exe:hover{
+    background-color:#2e7dbd;
+}
