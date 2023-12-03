@@ -1,0 +1,73 @@
+/*.table{
+    font-size:0.9em;
+    white-space:nowrap;
+    border:1px solid #cccccc84;
+    
+    }
+    .unread{
+        font-weight:700;
+    }
+    td{
+        cursor:pointer;
+    }
+    
+    tr:hover{
+        background:#acacac1e;
+    }
+    
+    .table-svg-del{
+    fill:#e91a1a;
+    width:15px;
+    }
+    .main-ip{
+        display:flex;
+        flex-direction:row;
+        align-items:center;
+    }*/
+   .com-st-card{
+        font-size:0.9em;
+        cursor:pointer;
+        box-shadow: 0 2px 8px 0 rgba(0,0,0,0.1);
+        color:#333;
+        margin-top:8px;
+    }
+    .com-st-card .img-pro{
+        border-radius:50%;
+    }
+    .line{
+display:flex;
+justify-content:space-between;
+align-items:center;
+    }
+.main-ip{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+}
+.table-svg-del{
+    fill:#e91a1a;
+    width:15px;
+    }
+    .cardlink {
+        text-decoration:none;
+        color:unset;
+      }
+      .cardlink:hover{
+        color:unset;
+      }
+    .usname{
+        font-weight:600;
+    }
+    .chbox{
+        width:15px;
+        height:15px;
+    }
+    .us-tp,.cm-tp,.us-br,.date-tp{
+    color:#555;
+        font-weight:600;
+         align-self:center;
+    }
+    .email{
+        font-size:0.85em;
+        font-weight:600;
+    }

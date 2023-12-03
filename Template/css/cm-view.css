@@ -1,0 +1,37 @@
+
+/*com v sec*/
+.cm-card
+{
+font-size:0.9em;
+}
+.cm-card .usname{
+    font-weight:600;
+}
+.cm-hrd{
+    display:flex;
+    align-items:center;
+    flex-direction:row;
+}
+.cd-pro{
+border-radius:50%;
+}
+.user-info-dt{
+    font-size:0.9em;
+    font-weight:600;
+    color:#555;
+}
+.sub-tit{
+font-weight:600;
+}
+.mr-dtl-link{
+    color: #333;
+    text-decoration:none;
+}
+.more-det-svg{
+    fill:#333 !important;
+    width:20px;
+    padding:2px;
+}
+.act-btn-sec{
+    border-top:1px solid #bbb;
+}
