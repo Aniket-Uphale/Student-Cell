@@ -1,0 +1,81 @@
+.us-profile-card span{
+font-size:0.85em;
+font-weight:500;
+}
+
+ .card{
+    padding:5px;
+    color:#333;
+}
+.email{
+    font-size:0.85em;
+}
+.us-profile-card .info-pro-c{
+    padding:10px;
+}
+.us-profile-card  .img-pro{
+border-radius:50%;
+}
+.com-sdd-csrd{
+text-align:center;
+color:#333;
+font-weight:600;
+}
+.com-sdd-csrd  .title{
+font-size:1em;
+font-weight:700;
+}
+.com-sdd-csrd .sub-title{
+    font-size:0.85em;
+
+}
+
+.com-sdd-csrd-btn{
+    padding:8px;
+    font-size:0.85em;
+    font-weight:600;
+    text-transform:uppercase;
+}
+.com-sdd-csrd-btn:focus{
+    box-shadow:none;
+}
+.event-card-sec .head-title{
+font-size:1.4em;
+padding:8px;
+font-weight:700;
+color:#ffea00;
+background-color:#0B5998;
+
+}
+.event-card-sec .ic-sp{
+width:15px;
+fill:#ffea00;
+}
+.event-card-sec .card{
+    box-shadow:2px 5px 8px rgb(0,0,0,0.2);
+}
+.event-card-sec  .card-body{
+    font-size:0.85em;
+    color:#333;
+}
+.event-card-sec .card-title-c{
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+width:90%;
+padding:2px;
+font-weight:600;
+}
+.event-card-sec .card-text-c{
+ padding:2px;
+    }
+
+.event-card-sec img{
+aspect-ratio:3/2;
+}
+.event-card-sec .card-footer a{
+    text-decoration:none;
+    color:#0B5998;
+    font-size:1em;
+    font-weight:600;
+}

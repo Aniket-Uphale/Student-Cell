@@ -1,0 +1,29 @@
+.us-info-fm  .img-round{
+border-radius:50%;
+}
+.us-info-fm {
+    font-size:0.9em;
+    
+}
+.us-info-fm  .form-label{
+font-weight:600;
+color:#555;
+}
+.us-info-fm .img-card{
+    border:1px solid #ccc;
+    border-radius:10px;
+    padding:5px;
+
+}
+
+.form-control:focus, .form-select:focus{
+box-shadow:none;
+}
+
+.head-txt{
+    text-transform:uppercase;
+    font-size:1.2em;
+    font-weight:700;
+    color:#555;
+
+}
