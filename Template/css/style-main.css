@@ -127,5 +127,31 @@ text-decoration:none;
 
 
 
-/* complaints*/
+/* footer*/
+.footer{
+  background-color:#0b59980e;
+    padding:20px;
+    font-size:0.9em;
+    text-align:center;
 
+}
+.footer .text-clc{
+    color:#0B5998;
+}
+.footer .social-svg-icon{
+    width:30px;
+   
+    margin-left:5px;
+}
+.fb{
+    fill:#0b4a98;
+}
+.insta{
+    fill:#bd0e83;
+}
+.ln{
+    fill:#017bc1;
+}
+.twitter{
+    fill:#1a97df;
+}
