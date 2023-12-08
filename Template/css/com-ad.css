@@ -24,6 +24,9 @@
         flex-direction:row;
         align-items:center;
     }*/
+    .up-na-br{
+        font-size:0.85em;
+    }
    .com-st-card{
         font-size:0.9em;
         cursor:pointer;

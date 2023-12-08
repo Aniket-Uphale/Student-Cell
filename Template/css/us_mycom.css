@@ -1,0 +1,27 @@
+.mycom-us .table{
+font-size:0.85em;
+font-weight:600;
+color:#333;
+}
+.mycom-us thead{
+    background:#ebeae870;
+    color:#666;
+}
+
+.mycom-us .svg{
+width:40px;
+}
+.yellow{
+    fill:#ffde3b;
+}
+.green{
+    fill:#35cd1d;
+} 
+.red{
+    fill:#e52424;
+} 
+.mycom-us a{
+    text-decoration:none;
+    color:#225b9b;
+    
+}

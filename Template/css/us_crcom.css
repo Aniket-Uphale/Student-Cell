@@ -1,0 +1,20 @@
+.cm-frm{
+    color:#333;
+}
+.cm-frm label{
+font-size:0.85em;
+}
+.cm-frm select,.text-area{
+    font-size:0.85em;
+}
+.cm-frm .form-select:focus,.form-control:focus,.btn:focus{
+    box-shadow:none;
+}
+.cm-frm .fr-head-title{
+    font-size:1.2em;
+    font-weight:700;
+    color:#0B5998;
+}
+.cm-frm .btn{
+margin:5px;
+}
