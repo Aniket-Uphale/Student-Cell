@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("/Template/img/ncer-campus.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+.login-form-st{
+    background-color: #ffff;
+    width:80%;
+    height: auto;
+    border-radius:15px;
+    margin: 7% auto;
+    padding:10px;
+}
+
+.login-form-st .form-control,.form-label{
+    font-size:1em;
+}
+.login-form-st a{
+    text-decoration:none;
+    color:#0B5998;
+    font-size:0.85em;
+}
+.form-control:focus,.form-label:focus{
+box-shadow:none;
+}
+
+.logo-tx-sec .title{
+    font-size:2em;
+    font-weight:800;
+    color:#0B5998;
+}
+.logo-tx-sec .subtitle{
+    font-size:1.9em;
+    font-weight:700;
+    color:#ffc919;
+    text-transform:uppercase;
+}

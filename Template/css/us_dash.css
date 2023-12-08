@@ -33,8 +33,9 @@ font-weight:700;
 .com-sdd-csrd-btn{
     padding:8px;
     font-size:0.85em;
-    font-weight:600;
+    font-weight:700;
     text-transform:uppercase;
+   
 }
 .com-sdd-csrd-btn:focus{
     box-shadow:none;
